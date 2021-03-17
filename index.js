@@ -58,7 +58,7 @@ function greet(userFirstName, userLastName) { // Wert in Klammern = Parameter
 }
 
 greet("Daniel", "Koller"); // Wert in Klammern = Argument
-greet("Linda", "Würdinger");
+greet("Linda", "W.");
 
 // z.B. Berechnung
 function calc(number) {
